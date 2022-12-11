@@ -1,11 +1,8 @@
-<<<<<<< HEAD
+1121313123
 sdsdf
 11111111111
 asdadsada
-# Spring MVC Chuck Norris Jokes App
-=======
 # Spring MVC Chuck Norris Jokes App1111
->>>>>>> b227b79e6d204143850cd35b9eaf8694d21382ab
 Spring MVC Chuck Norris Jokes App.
 
 This repository contains code to support my online courses. Learn more using the links below!
